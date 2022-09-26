@@ -1,0 +1,8 @@
+{
+  "name": "aivoice",
+  "displayName": "aivoice",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5913677127061395~3554063905",
+    "ios_app_id": "ca-app-pub-5913677127061395~3554063905"
+  }
+}

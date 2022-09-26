@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000344164463",
+    "project_id": "aivoice-dd405",
+    "storage_bucket": "aivoice-dd405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000344164463:android:e87f20938defb5a63fd59a",
+        "android_client_info": {
+          "package_name": "com.aivoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000344164463-u2743je5fur3erfuacptrdi68etcpuje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aivoice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1000344164463-gmm1rcbmt5bk6hcs4ge1qe1dt5plut75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTVY3xh0qTC4tdKjiHvPbrkDzRrF5DrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000344164463-gmm1rcbmt5bk6hcs4ge1qe1dt5plut75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
